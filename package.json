@@ -1,0 +1,11 @@
+{
+  "name": "simple-speedtest",
+  "module": "speedtest.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
